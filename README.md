@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomPMcGuire37
 - 👀 I’m interested in learning all about Python and data science!
-- 🌱 I’m currently learning Python and studying to get my master's degree at Syracuse University.
+- 🌱 I am a Data Reporting Analyst looking to become a Data Scientist following the completion of my Master's Degree.
 - 💞️ I’m looking to collaborate on everything and anything!
 - 📫 How to reach me either on linkedin or here!
 
